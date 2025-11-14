@@ -1,3 +1,4 @@
+"use client";
 import { useState, useEffect } from "react";
 import { url } from "@/lib/metadata";
 import { Share } from "@/components/share";
